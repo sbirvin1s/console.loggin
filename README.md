@@ -1,10 +1,10 @@
-# console.loggin - What else can you do in the console?
+# :computer: console.loggin - What else can you do in the console?
 
 Demo code that was used during console.loggin' presentation along with references for further reading.
 
 ## References
 
-### [`console.log()` documentation (MDN)](https://developer.mozilla.org/en-US/docs/Web/API/console)
+### :link: [`console.log()` documentation (MDN)](https://developer.mozilla.org/en-US/docs/Web/API/console)
 
  - `console.log()`
  - `console.warn()`
@@ -14,4 +14,4 @@ Demo code that was used during console.loggin' presentation along with reference
  - `console.cloear()`
 
 
-### [Adding colors to Javascript Console (W3 Docs)](https://www.w3docs.com/snippets/javascript/colors-in-javascript-console.html)
+### :link: [Adding colors to Javascript Console (W3 Docs)](https://www.w3docs.com/snippets/javascript/colors-in-javascript-console.html)

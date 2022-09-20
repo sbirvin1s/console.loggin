@@ -11,7 +11,7 @@ Demo code that was used during console.loggin' presentation along with reference
  - `console.error()`
  - `console.time()`
  - `console.group()`
- - `console.cloear()`
+ - `console.clear()`
 
 
 ### :link: [Adding colors to Javascript Console (W3 Docs)](https://www.w3docs.com/snippets/javascript/colors-in-javascript-console.html)
